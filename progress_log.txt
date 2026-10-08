@@ -1,0 +1,15 @@
+- Implement Square trait - Completed
+- Implement Tower, Enemy, Projectile Classes - Completed
+- Implement Game class - Completed
+- Implement tick function - Completed
+- Implement GUI - Completed
+- Implement unit tests - Completed
+- Implement save/load function - Completed
+- Implement upgrading towers - Completed
+- Implement selling towers - completed
+- Create more maps - completed
+- Improved GUI - completed
+- Add more unit tests - completed
+- Allow the player to change the speed of the game - completed
+- Allow the player to change the color of the Path Square and Other Square - completed
+- I think I am on time with the schedule
